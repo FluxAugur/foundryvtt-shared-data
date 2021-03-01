@@ -14,70 +14,80 @@
 		"label": "Shared D&D 5e Monsters",
 		"path": "packs/monsters.db",
 		"entity": "Actor",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-class-features",
 		"label": "Shared D&D 5e Class Features",
 		"path": "packs/class-features.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-classes",
 		"label": "Shared D&D 5e Classes",
 		"path": "packs/classes.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-feats",
 		"label": "Shared D&D 5e Feats",
 		"path": "packs/feats.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-items",
 		"label": "Shared D&D 5e Items",
 		"path": "packs/items.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-races",
 		"label": "Shared D&D 5e Races",
 		"path": "packs/races.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-racial-traits",
 		"label": "Shared D&D 5e Racial Traits",
 		"path": "packs/racial-traits.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-spells",
 		"label": "Shared D&D 5e Spells",
 		"path": "packs/spells.db",
 		"entity": "Item",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-rules",
 		"label": "Shared D&D 5e Rules",
 		"path": "packs/rules.db",
 		"entity": "JournalEntry",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	},
 	{
 		"name": "foundryvtt-shared-data-macros",
 		"label": "Shared D&D 5e Macros",
 		"path": "packs/macros.db",
 		"entity": "Macro",
-		"system": "dnd5e"
+		"system": "dnd5e",
+		"module": "foundryvtt-shared-data"
 	}
   ],
   "dependencies": [
